@@ -2,7 +2,7 @@
 Language Lighthouse is a library for the OpenAI chat completion API using state-of-the-art language models like GPT, with support for asynchronous calls.
 
 # Example
-```
+``` python
   payloads = []
   for text in texts:
       payloads.append(gpt.make_payload(
