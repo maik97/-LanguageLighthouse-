@@ -3,7 +3,7 @@ Language Lighthouse is a library for the OpenAI chat completion API using state-
 
 # Example
 ``` python
-from async_gpt import AsyncChatGPT
+from openai_api.async_gpt import AsyncChatGPT
 
 gpt = AsyncChatGPT()
 
